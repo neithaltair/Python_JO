@@ -1,0 +1,2 @@
+Ejercicio 1 =  Comprobar si una cadena termina con la extension .py, sino es asi, agrega la extension
+
