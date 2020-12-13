@@ -1,4 +1,8 @@
 Ejercicio 1 COMPROBAR EXTENSION =  Comprobar si una cadena termina con la extension .py, sino es asi, agrega la extension
 Ejercicio 2 EMULA EL FUNCIONAMIENTO DE LA TECLA * CON BUCLES = Emular el funcionamiento del producto de cadenas.
 Ejercicio 3 GENERAR LOS N PRIMEROS NUMEROS PARES POSITIVOS = Generar los primeros numeros pares positivos
-Ejercicio 4 SIMULAR EL FUNCIONAMIENTO DEL OPERADOR IN = 
+Ejercicio 4 SIMULAR EL FUNCIONAMIENTO DEL OPERADOR IN =
+Ejercicio 5 Calcular la diferencia de conjuntos = haciendo uso del metodo SET, set tiene muchas funciones para el
+manejo de informacion en grupos y/o listas.
+Ejercicio 6 MAXIMO COMUN DIVISOR DE DOS NUMEROS.
+Ejercicio 7 Encontrar minimo comun multiplo
